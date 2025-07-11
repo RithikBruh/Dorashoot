@@ -10,6 +10,7 @@ from aliens import Alien
 from aliens import Alien1
 import time
 
+# this is asshole code
 
 class Ball(Sprite):
     """a class that describes air ball (bullet)"""
@@ -136,7 +137,7 @@ def main():
                     for event in pygame.event.get():
                         if event.type == QUIT:
                             pygame.quit()
-                            sys.exit()
+                            sys.exit()          
                             game_active = False
 
                         if event.type == pygame.KEYDOWN :
