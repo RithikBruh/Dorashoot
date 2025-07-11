@@ -1,0 +1,27 @@
+**DOWNLOAD PHython new version from www.python.org from 
+your favorite browser , and double click on the main file**
+
+** MAIN  :: DO NOT CHANGE ANY FILE NAME , IF YOU CHANGED thE naME
+tHen THE GAME WONT WORK ** 
+
+once double click on setup (not working) , and play game after choosing level , it can 
+ it gives an error , then goto python.org and install python 
+and open main.py file after opening run the code and enjoy the game ........
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THIS GAME IS JUST FOR development purpose only (You can Edit and it is fully
+ Open Source and understanding code game ,All rights are reserved) ,
+I have used some musics and images which are copyrighted so 
+dont ....
+
+this game is Made by     M.Sai Rithik   with hard work and patience  
+of 706 lines of code (really big) which took 8 days to complete .......
+(Copyrighted <If you want to REPUBLISh the game contact "M.Sai Rithik" 
+and take permisson>)
+
+Contact Number - 7989669796
+Mail : theeletronoobs2007@gmail.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+soME OPTIONS IN THE GAME DOESNT WORK , sO SORRY FOR THE INCONVENENCE ,
+DUE TO ERRORS IN CODE AND MY MUD MIND !!!
