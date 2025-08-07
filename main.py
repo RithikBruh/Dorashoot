@@ -1,4 +1,4 @@
-#F you too 
+#F you too ok man
 
 import pygame
 import sys
